@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home" android:icon="@drawable/ic_account_home">
+
+    </item>
+    <item android:id="@+id/setting"
+        android:title="Setting" android:icon="@drawable/ic_settings_black_24dp">
+
+    </item>
+
+    <item android:id="@+id/my_cart"
+        android:title="MyCart" android:icon="@drawable/ic_mycart">
+
+    </item>
+
+
+    <item android:id="@+id/wishList"
+        android:title="Wishlist" android:icon="@drawable/ic_card_wishlist1">
+
+    </item>
+
+    <item android:id="@+id/log"
+        android:title="Logout" android:icon="@drawable/ic_exitapp">
+
+    </item>
+
+
+
+</menu>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hthiyaga.kr">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/app_bg"
+        android:label="Keep Reading"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".UserActivity"></activity>
+
+        <activity android:name=".BookDetails"
+            android:label="Book Details"/>
+        <activity android:name=".WishList"/>
+        <activity android:name=".MyCart"/>
+        <activity android:name=".SearchByBookName"/>
+        <activity android:name=".SearchByAuthorName"/>
+        <activity android:name=".SearchByPublicationName"/>
+
+    </application>
+
+</manifest>
