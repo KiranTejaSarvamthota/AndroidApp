@@ -22,8 +22,8 @@ Android Studio
 - Login/Logout
 - Homescreen with list of books
 - Navigation Drawer
--My Cart
--Wishlist
+- My Cart
+- Wishlist
 - Options Menu
    * Search by Book name
    * Search by Author name
