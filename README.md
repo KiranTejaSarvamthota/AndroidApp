@@ -5,7 +5,7 @@
 
 
 
-Demo Link: <a href="https://drive.google.com/file/d/1F6QguATQM_tsdr3EwS4vyVzc29RPRoOV/view?ts=5ad780e2"> Data</a>
+Demo Link: <a href="https://drive.google.com/file/d/1F6QguATQM_tsdr3EwS4vyVzc29RPRoOV/view?ts=5ad780e2"> Link</a>
 
 ## Technologies
 ```
